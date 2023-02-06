@@ -1,0 +1,16 @@
+.table-usuarios {
+    background: #008ACE !important;
+}
+.table-usuarios-eliminado {
+    background: #ec322d !important;
+}
+.table-usuarios-editar {
+    background: #2456ee !important;
+}
+.fondo-imagen {
+    background-color: #ffdd90;
+    background-image: url("Asstes/img/Guarderia.png");
+  }
+  .table-regInscripcion {
+    background: #008ACE !important;
+}
